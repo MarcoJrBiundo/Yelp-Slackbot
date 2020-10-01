@@ -1,86 +1,123 @@
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
-Hey
+marco.biundo  4:39 PM
+Nearby 135 Fennell Avenue West, Hamilton, Ontario
+
+tetraAPP  4:39 PM
+These 5 restuarants are in your area 
+Earth To Table : Bread Bar
+Address: 258 Locke Street S
+The Ship
+Address: 23 Augusta Street
+Hambrgr
+Address: 49 King William Street
+Mezcal Tacos & Tequila
+Address: 150 James Street S
+Charred Chicken
+Address: 244 James Street N
+
+marco.biundo  4:39 PM
+Events 79.8861W 43.2383N
+
+tetraAPP  4:39 PM
+These 5 events are in your area Name: Supercrawl
+Address:
+Description: Supercrawl is a free, three-day arts and music festival. Road closures along James Street North allow for music stages, art installations, family area,...
+Name: All Day Art Crawl
+Address: 165 James Street N
+Description: April Art Crawl falls on Good Friday - so it's an all day Crawl! The Hamilton Store will be open 12:00pm to 8:00pm. Bring your Easter Weekend guests to...
+Name: Hamilton Rib & Craft Beer Fest
+Address: Gage Park
+Description: FREE ENTRY & PARKING!Hamilton Rib & Craft Beer Fest at Gage Park is located in Hamilton's largest city centre park, complete with it's own bandstand. For...
+Name: #BLACKGIRLMAGIC | A Showcase of women of colour making music in Hamilton
+Address: 345 James Street N
+Description: Presented by Cobra, tickets will be $10 at the door and will include Shanika Maria, Miuzia, Obuxum.Plus DJ Seema & DJ Stylo Starr.
+Name: Trivia Night: '90s Edition
+Address: 207 Burlington Street E
+Description: A lot of us like to CALL ourselves '90s kids. Even if we were only alive for the last few years of the decade - cough lookin' at you, '97s!But hey, we...
+
+marco.biundo  4:40 PM
+Top 10 135 Fennell Avenue West, Hamilton, Ontario
+
+tetraAPP  4:40 PM
+These 10 restuarants are in your area
+Name: Cannon Coffee
+Address: 179 Ottawa Street N
+Name: Quatrefoil Restaurant
+Address: 16 Sydenham Street
+Name: Earth To Table : Bread Bar
+Address: 258 Locke Street S
+Name: Hambrgr
+Address: 49 King William Street
+Name: The Ship
+Address: 23 Augusta Street
+Name: Charred Chicken
+Address: 244 James Street N
+Name: Saint James Espresso Bar & Eatery
+Address: 170 James Street N
+Name: The French
+Address: 37 King William Street
+Name: The Burnt Tongue
+Address: 10 Cannon St E
+Name: Mezcal Tacos & Tequila
+Address: 150 James Street S
+
+marco.biundo  4:40 PM
+Closest 7 135 Fennell Avenue West, Hamilton, Ontario
+
+tetraAPP  4:40 PM
+These 7 restuarants are in your area Name: Starbucks
+Address: 135 Fennell Avenue W
+Name: The Cellar
+Address: Mohawk College
+Name: Shisha Kaif
+Address: 592 Upper James Street
+Name: Pita Pit
+Address: 649 Upper James Street
+Name: Marino Pizza
+Address: 601 Upper James Street
+Name: Bring Your Dog Cafe & Pub
+Address: 9 Richwill Road
+Name: Pho Binh Minh Vietnamese Cuisine
+Address: 740 Upper James Street
+
+marco.biundo  4:40 PM
+FindMe sushi 135 Fennell Avenue West, Hamilton, Ontario
+
+tetraAPP  4:40 PM
+This sushi establishment is in your area Name: Spring Sushi
+Address: 1508 Upper James St
+Rating: 4
+
+marco.biundo  4:41 PM
+Reviews Spring Sushi 135 Fennell Avenue West, Hamilton, Ontario
+
+tetraAPP  4:41 PM
+Reviews for the closeset Spring Sushi in your area Review: Was looking for a decent sushi place in Hamilton and came across spring sushi...price was average for AYCE walked in and place was modern and clean they...
+Reviewer Name: Zack P.
+Rating: 4
+Review Url: https://www.yelp.com/biz/spring-sushi-hamilton?adjust_creative=a0-XYekyPJtHkWnwMvw1SQ&hrid=Q3_i-RRo6v59ZYRXxjvCig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=a0-XYekyPJtHkWnwMvw1SQ
+Review: I ordered over Skip The Dishes (because COVID). A huge order of sushi, udon noodles and rolls. As my one treat this week I also included two beers which was...
+Reviewer Name: Ben S.
+Rating: 2
+Review Url: https://www.yelp.com/biz/spring-sushi-hamilton?adjust_creative=a0-XYekyPJtHkWnwMvw1SQ&hrid=InZKXR2UwkAhCo_hvEcThw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=a0-XYekyPJtHkWnwMvw1SQ
+Review: Such a great sushi  place. We had a dinner "all you can it". All food is prepared specifically for you. Everything is so fresh and delicious. Service is...
+Reviewer Name: Lyubov L.
+Rating: 5
+Review Url: https://www.yelp.com/biz/spring-sushi-hamilton?adjust_creative=a0-XYekyPJtHkWnwMvw1SQ&hrid=5gq-XJGI_-vukURo0cieRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=a0-XYekyPJtHkWnwMvw1SQ
+
+marco.biundo  4:41 PM
+searchbyphone 19053836866
+
+tetraAPP  4:41 PM
+I think I found what you're looking for: Spring Sushi
+1508 Upper James St
+Hamilton
++19053836866
+
+marco.biundo  4:41 PM
+status put this in the database
+
+tetraAPP  4:41 PM
+Status has been written to database
+
+
+
